@@ -24,7 +24,7 @@ Filter dataset (fine-tuning)
 
 Training is performed on single-channel grayscale images to emphasize structural learning.
 
-Dataset link: (Add Kaggle link here)
+Dataset link: (https://www.kaggle.com/datasets/ashmitsutar/jwst-multi-filter-astronomical-denoising-dataset)
 
 🧠 Model Architecture
 
