@@ -112,25 +112,7 @@ SSIM (Structural Similarity Index)
 
 Both pixel accuracy and perceptual consistency are evaluated.
 
-🗂️ Project Structure
-├── dataset/
-├── models/
-│   └── unet.py
-├── training/
-│   └── train.py
-├── inference/
-│   └── predict.py
-├── utils/
-├── checkpoints/
-└── README.md
-🚀 Installation
-git clone https://github.com/yourusername/repo-name.git
-cd repo-name
-pip install -r requirements.txt
-🏃 Training
-python train.py
-🔍 Inference
-python predict.py --image path_to_image
+
 🧩 Technologies Used
 
 Python
