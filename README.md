@@ -145,10 +145,7 @@ scikit-learn
 
 pytorch-msssim
 
-📜 License
 
-Code released under MIT License.
-Dataset follows CC-BY 4.0 attribution requirements.
 
 👤 Author
 
